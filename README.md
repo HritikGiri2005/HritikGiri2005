@@ -1,20 +1,16 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hritik%20Giri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20React%20%26%20Django%20Developer&descAlignY=55"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hritik%20Giri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20React%20Developer&descAlignY=55"/>
+</p>
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Hritik+Giri+👋;Full+Stack+Developer+🚀;AI+%26+Machine+Learning+Enthusiast+🤖;React+%7C+React+Native+%7C+Django+Developer+💻;Building+Modern+AI-Powered+Applications+✨;Always+Learning+New+Technologies+📚"/>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Hritik+Giri;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+React+Native+%7C+Django+Developer;Building+Modern+AI-Powered+Applications;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=HritikGiri2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
@@ -22,7 +18,7 @@
 
 <img src="https://img.shields.io/github/stars/HritikGiri2005?logo=github&style=for-the-badge"/>
 
-</div>
+</p>
 
 ---
 
@@ -66,7 +62,7 @@ Fun Fact:
 
 # 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
 ## 💻 Languages
 
@@ -96,7 +92,7 @@ Fun Fact:
 
 <img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,postman,vscode"/>
 
-</div>
+</p>
 
 ---
 
@@ -161,61 +157,61 @@ Fun Fact:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HritikGiri2005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HritikGiri2005&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak Stats
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=HritikGiri2005&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HritikGiri2005&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=HritikGiri2005&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
-</div>
+</p>
 
 ---
 
 # ⚡ Coding Profiles
 
-<div align="center">
+<p align="center">
 
 <a href="https://leetcode.com/u/hritik_giri_2005/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/hritik-giri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -233,46 +229,46 @@ Fun Fact:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 # 💡 Random Dev Quote
 
-<div align="center">
+<p align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake Animation
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/HritikGiri2005/HritikGiri2005/output/snake.svg" alt="snake animation"/>
 
-</div>
+</p>
 
 ---
 
 # ☕ Support Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://buymeacoffee.com/">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 # ✨ Thanks For Visiting My Profile ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00c6ff,100:0072ff&section=footer"/>
 
-</div>
+</p>
