@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Hritik+Giri+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;React+%7C+React+Native+%7C+Django+Developer+%F0%9F%92%BB;Building+Modern+AI-Powered+Applications+%E2%9C%A8;Always+Learning+New+Technologies+%F0%9F%93%9A"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Hritik+Giri+👋;Full+Stack+Developer+🚀;AI+%26+Machine+Learning+Enthusiast+🤖;React+%7C+React+Native+%7C+Django+Developer+💻;Building+Modern+AI-Powered+Applications+✨;Always+Learning+New+Technologies+📚"/>
 
 </div>
 
@@ -205,7 +205,7 @@ Fun Fact:
 
 <div align="center">
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/hritik_giri_2005/)">
+<a href="https://leetcode.com/u/hritik_giri_2005/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -217,7 +217,7 @@ Fun Fact:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/hritik-giri">
+<a href="https://www.linkedin.com/in/hritik-giri">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -225,7 +225,7 @@ Fun Fact:
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
 </a>
 
-<a href="hritikgiri2@gmail.com">
+<a href="mailto:hritikgiri2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
