@@ -1,23 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hritik%20Giri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20React%20Developer&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&text=Hritik%20Giri&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Django%20Developer&descAlignY=55" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Hritik+Giri;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Django+Developer;Building+Modern+AI-Powered+Applications;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hey+There!+I'm+Hritik+Giri;Python+Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Django+Developer;Building+Modern+AI-Powered+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=HritikGiri2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/HritikGiri2005?logo=github&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/HritikGiri2005?logo=github&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=HritikGiri2005&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HritikGiri2005?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/HritikGiri2005?logo=github&style=for-the-badge" />
 </p>
 
 ---
@@ -28,14 +24,14 @@
 
 ```yaml
 Name: Hritik Giri
-Role: (Python) Full Stack Developer
+Role: Python Full Stack Developer
 Location: India
 
 Currently Working On:
   - AI-Powered Applications
-  - Deep Learning Projects
+  - Machine Learning Projects
   - Django Applications
-  - React Native Apps
+  - React Native Applications
 
 Currently Learning:
   - Advanced Machine Learning
@@ -45,13 +41,13 @@ Currently Learning:
 
 Interests:
   - Artificial Intelligence
+  - Backend Development
   - Web Development
   - Mobile App Development
-  - UI/UX Design
-  - Open Source Contribution
+  - Open Source
 
 Goal:
-  To build impactful AI-driven applications
+  To build impactful software and AI-driven applications
   that solve real-world problems.
 
 Fun Fact:
@@ -66,31 +62,31 @@ Fun Fact:
 
 ## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,sql"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,sql" />
 
 ---
 
 ## 🌐 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind,vite"/>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,bootstrap,tailwind,vite" />
 
 ---
 
 ## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=python,django"/>
+<img src="https://skillicons.dev/icons?i=python,django" />
 
 ---
 
 ## 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 ---
 
 ## 🗄️ Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,mysql,git,github,postman,vscode" />
 
 </p>
 
@@ -100,7 +96,7 @@ Fun Fact:
 
 ## 🔹 RealEyez — DeepFake Detection AI
 
-🧠 AI-powered system that detects whether an image is real or AI-generated using EfficientNet + TensorFlow.
+🧠 AI-powered system for detecting whether an image is real or AI-generated.
 
 ### ✨ Features
 
@@ -108,7 +104,7 @@ Fun Fact:
 * CNN-Based Classification
 * Django Backend
 * Prediction Logging
-* Image Analytics
+* Image Analysis
 * TensorFlow Integration
 
 ---
@@ -120,8 +116,8 @@ Fun Fact:
 ### ✨ Features
 
 * QR-Based Product Verification
-* Real-Time Geolocation
 * Product Traceability
+* Real-Time Geolocation
 * Secure Authentication
 * Transparent Marketplace
 
@@ -129,7 +125,7 @@ Fun Fact:
 
 ## 🔹 Farmer AI Helper
 
-🌦️ AI-powered weather and crop recommendation platform.
+🌦️ AI-powered platform designed to provide weather and crop-related recommendations.
 
 ### ✨ Features
 
@@ -143,14 +139,14 @@ Fun Fact:
 
 ## 🔹 Face Recognition Attendance System
 
-📸 Smart attendance management using OpenCV.
+📸 Computer-vision based attendance system using face recognition.
 
 ### ✨ Features
 
 * Face Detection
+* Face Recognition
 * Attendance Automation
 * Real-Time Recognition
-* Employee Tracking
 * OpenCV Integration
 
 ---
@@ -158,21 +154,17 @@ Fun Fact:
 # 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HritikGiri2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HritikGiri2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HritikGiri2005&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HritikGiri2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=HritikGiri2005&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=HritikGiri2005&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -180,9 +172,7 @@ Fun Fact:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HritikGiri2005&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HritikGiri2005&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -190,9 +180,7 @@ Fun Fact:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HritikGiri2005&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=HritikGiri2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
@@ -200,11 +188,9 @@ Fun Fact:
 # ⚡ Coding Profiles
 
 <p align="center">
-
-<a href="https://leetcode.com/u/hritik_giri_2005/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+  <a href="https://leetcode.com/u/hritik_giri_2005/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -214,19 +200,19 @@ Fun Fact:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/hritik-giri">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://hritik-giri.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me" />
 </a>
 
 <a href="mailto:hritikgiri2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://github.com/HritikGiri2005">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 </p>
@@ -236,19 +222,15 @@ Fun Fact:
 # 💡 Random Dev Quote
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/HritikGiri2005/HritikGiri2005/output/snake.svg" alt="snake animation"/>
-
+  <img src="https://raw.githubusercontent.com/HritikGiri2005/HritikGiri2005/output/snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -256,19 +238,17 @@ Fun Fact:
 # ☕ Support Me
 
 <p align="center">
-
-<a href="https://buymeacoffee.com/">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
+  <a href="https://buymeacoffee.com/">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
 
-# ✨ Thanks For Visiting My Profile ✨
+## ✨ Thanks For Visiting My Profile ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00c6ff,100:0072ff&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00c6ff,100:0072ff&section=footer" />
 
 </p>
