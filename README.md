@@ -28,13 +28,13 @@
 
 ```yaml
 Name: Hritik Giri
-Role: Full Stack Developer
+Role: (Python) Full Stack Developer
 Location: India
 
 Currently Working On:
   - AI-Powered Applications
   - Deep Learning Projects
-  - MERN Stack Development
+  - Django Applications
   - React Native Apps
 
 Currently Learning:
@@ -78,7 +78,7 @@ Fun Fact:
 
 ## ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+<img src="https://skillicons.dev/icons?i=python,django"/>
 
 ---
 
@@ -90,7 +90,7 @@ Fun Fact:
 
 ## 🗄️ Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,git,github,postman,vscode"/>
 
 </p>
 
